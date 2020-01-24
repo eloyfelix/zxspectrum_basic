@@ -1,2 +1,2 @@
 org 0
-incbin "loading_screen.scr"
+incbin "chembl_logo.scr"

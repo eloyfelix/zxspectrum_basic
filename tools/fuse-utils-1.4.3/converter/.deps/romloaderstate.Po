@@ -1,0 +1,4 @@
+converter/romloaderstate.o: converter/romloaderstate.cc \
+  converter/romloaderstate.h
+
+converter/romloaderstate.h:

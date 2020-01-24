@@ -1,2 +1,2 @@
 org 0
-incbin "chembl_logo.scr"
+incbin "chembl_26.scr"

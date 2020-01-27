@@ -11,7 +11,7 @@ make
 pip install zxbasic
 ```
 
-## Compile basic code using  as a .tap file
+## Compile basic code as a .tap file using ZXBASIC
 ```python
 zxb -taB main.bas
 ```
